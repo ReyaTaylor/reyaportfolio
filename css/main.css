@@ -301,7 +301,7 @@ body {
 ========================== */
 
 .blog {
-    padding: 100px 0;
+    padding: 130px 0;
     background: #141929;
 }
 
@@ -368,7 +368,7 @@ body {
 
 
 /* ==========================
-   [09]. Contact
+   [06]. Contact
 ========================== */
 
 .contact {
@@ -416,7 +416,7 @@ body {
 
 
 /* ==========================
-   [10]. Footer
+   [07]. Footer
 ========================== */
 .footer {
     padding: 40px 0;
@@ -438,7 +438,7 @@ body {
 
 
 /* ==========================
-   [11]. Media
+   [08]. Media
 ========================== */
 /*Small devices (landscape phones, 576px and up) */
 @media (max-width: 575.99px) {
